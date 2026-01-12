@@ -1,0 +1,22 @@
+Interface,IP Adresi,Durum (Status),Protokol
+Interface,IP-Address,Status,Protocol
+Loopback3,10.10.37.1,Up,Up
+Loopback10,10.10.10.10,Up,Up
+Loopback60,60.6.60.6,Up,Up
+Loopback99,172.16.1.1,Up,Up
+Loopback100,1.1.1.1,Up,Up
+Loopback101,10.99.99.1,Up,Up
+Loopback102,unassigned,Up,Up
+Loopback500,10.50.50.50,Up,Up
+Loopback800,unassigned,Up,Up
+Loopback999,unassigned,Up,Up
+MgmtEth0/RP0/CPU0/0,10.10.20.175,Up,Up
+GigabitEthernet0/0/0/0,10.1.1.1,Down,Down
+GigabitEthernet0/0/0/1,192.168.1.1,Down,Down
+GigabitEthernet0/0/0/1.100,10.10.10.1,Down,Down
+GigabitEthernet0/0/0/2,10.0.0.1,Down,Down
+GigabitEthernet0/0/0/2.100,192.168.1.1,Down,Down
+GigabitEthernet0/0/0/3,192.168.1.1,Down,Down
+GigabitEthernet0/0/0/4,unassigned,Down,Down
+GigabitEthernet0/0/0/5,unassigned,Down,Down
+GigabitEthernet0/0/0/6,192.168.10.1,Down,Down

@@ -1,0 +1,19 @@
+--- KONFIGURASYON LOGLARI ---
+configure terminal
+
+Thu May 25 15:48:11.029 UTC
+RP/0/RP0/CPU0:breno(config)#interface Loopback60
+
+RP/0/RP0/CPU0:breno(config-if)#description BU_INTERFACE_PYTHON_ILE_ACILDI
+
+RP/0/RP0/CPU0:breno(config-if)#ipv4 address 60.06.60.06 255.255.255.255
+
+RP/0/RP0/CPU0:breno(config-if)#commit
+
+Thu May 25 15:48:12.362 UTC
+RP/0/RP0/CPU0:breno(config-if)#
+
+--- SON DURUM ---
+
+                                    ^
+% Invalid input detected at '^' marker.
